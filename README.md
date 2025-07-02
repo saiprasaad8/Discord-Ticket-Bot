@@ -18,7 +18,7 @@ Supports button-based ticket creation, private ticket channels, and ticket closi
 
 
 ## Install requirements:
-
+  **Check Requirements.txt**
 `pip install -U discord.py`<br>
 `pip install -r requirements.txt`
 
