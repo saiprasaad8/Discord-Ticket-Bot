@@ -1,6 +1,6 @@
 # Discord Ticket Bot
 
-A simple and modern **Discord Ticket System Bot** built with `discord.py v2.x`  
+A simple and modern **Discord Ticket System Bot** built with `discord.py`  
 Supports button-based ticket creation, private ticket channels, and ticket closing.
 
 > Made for servers that want a clean, no-fuss support system.
