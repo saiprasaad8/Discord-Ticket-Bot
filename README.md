@@ -9,11 +9,12 @@ Supports button-based ticket creation, private ticket channels, and ticket closi
 
 ## Features
 
-- Create tickets via interactive **button**
-- Private ticket channel for the user and support team
-- `!close` command to delete ticket
-- Persistent button works after bot restarts
-- Role-based access using a support role
+- Create tickets via interactive **button**.
+- Private ticket channel for the user and support team.
+- `!ticketpanel` command to create the pannel.
+- `!close` command to delete ticket.
+- Persistent button works after bot restarts.
+- Role-based access using a support role.
 
 
 ## Install requirements:
